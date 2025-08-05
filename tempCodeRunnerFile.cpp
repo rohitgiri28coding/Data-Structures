@@ -1,1 +1,1 @@
-maxSum = max(currentSum, maxSum);
+struct
